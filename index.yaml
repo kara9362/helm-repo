@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  multi-container:
-  - apiVersion: v2
+  nginx-deploy:
+  - apiVersion: v1
     appVersion: 0.1.0
-    created: "2026-10-15T16:24:19.809269581+09:00"
+    created: "2026-10-27T23:53:28.50726032+09:00"
     description: A Helm chart for Kubernetes
-    digest: 352dc485d4f9ac9c5ef8e2392b06ff77112920e1f16176bebf64a6181a68ca21
-    name: multi-container
+    digest: bcad7e7e010cd5e1258771f3a7e7a665ef8200fdab0f8d456d35c2564b12f76f
+    name: nginx-deploy
     type: application
     urls:
-    - multi-container-0.1.1.tgz
-    version: 0.1.1
-generated: "2026-10-15T16:24:19.807546621+09:00"
+    - nginx-deploy-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-27T23:53:28.502837343+09:00"
